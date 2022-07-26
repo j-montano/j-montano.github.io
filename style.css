@@ -12,10 +12,32 @@ h1,h2 {
 img#jmontano{
   float: right;
   vertical-align= top;
-  width: 26%;
+  width: 30%;
   border: 1px #000 solid;
 }
 
+img#jmResearch{
+  float: right;
+  vertical-align= top;
+  width: 40%;
+  Vspace ="30";  
+  border: 1px #000 solid;
+}
+
+img#jmTeaching{
+  float: right;
+  vertical-align= top;
+  width: 40%;
+   Vspace ="20"; 
+  border: 1px #000 solid;
+}
+
+img#NSF{
+  float: right;
+  vertical-align= top;
+  width: 25%;
+  border: none;
+}
 
 img#KU{
   float: right;
